@@ -1,3 +1,22 @@
+# 1292
+a, b = map(int, input().split())
+
+i = 0
+n = 1
+i_list = []
+
+while i < b:
+    for j in range(n):
+        i += 1
+        i_list.append(n)
+    n += 1
+
+result = 0
+for k in range(a-1, b):
+    result += i_list[k]
+    
+print(result)
+
 # 2920
 note_list = list(map(int, input().split()))
 
