@@ -1,0 +1,11 @@
+total = 0
+
+for i in range(10):
+    i_n = int(input())
+
+    if (100 - total - i_n)**2 <= (100 - total)**2:
+        total += i_n
+    else:
+        break
+
+print(total)
