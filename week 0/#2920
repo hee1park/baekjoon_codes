@@ -1,0 +1,24 @@
+note_list = list(map(int, input().split()))
+
+result, prev = '', ''
+if note_list[0] < note_list[1]:
+    result = 'ascending'
+else:
+    result = 'descending'
+
+i = 1
+while i < len(note_list)- 1:
+    prev = result
+    if note_list[i] < note_list[i+1]:
+        result = 'ascending'
+    else:
+        result = 'descending'
+
+    if result != prev:
+        print('mixed')
+        break
+    else:
+        i += 1
+
+if i == len(note_list) - 1:
+    print(result)
