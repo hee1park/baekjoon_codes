@@ -1,0 +1,13 @@
+t = int(input())
+for i in range(t):
+    h, w, n = map(int, input().split())
+    floor = n % h
+    if floor == 0:
+        floor = h
+    rnum = ((n-1) // h) + 1
+    if rnum < 10:
+        s_rnum = '0' + str(rnum)
+    else:
+        s_rnum = str(rnum)
+    room = str(floor) + s_rnum
+    print(room)
