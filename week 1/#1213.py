@@ -1,8 +1,7 @@
 # 1213
-
 name = input()
-
 d_letters = {}
+
 for i in name:
     if i in d_letters:
         d_letters[i] += 1
