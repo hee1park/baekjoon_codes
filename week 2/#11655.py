@@ -14,5 +14,3 @@ for i in s_line:
         s_rot13 += i
 
 print(s_rot13)
-        
-        
