@@ -1,7 +1,8 @@
 ## 🌊방학 코딩 스터디
 ### 🦔 week 0
 <details>
-<summary>푼 문제</summary>
+<summary>🍀푼 문제</summary>
+ 
 - 1292: 🥉 I 쉽게 푸는 문제
  
 - 2851: 🥉 I 슈퍼 마리오
