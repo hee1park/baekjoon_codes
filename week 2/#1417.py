@@ -1,5 +1,4 @@
 # 1417
-
 i_n_candidates = int(input())
 
 d_cand_votes = {}
@@ -9,7 +8,6 @@ for i in range(i_n_candidates):
 
 max_votes_cand = i_n_candidates - 1
 i_buy = 0
-
 
 while True:
     # 최다 득표자 찾기
