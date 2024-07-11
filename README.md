@@ -54,7 +54,11 @@
 - 9625: 🥈 V BABBA
 - 9655: 🥈 V 돌게임
  </details>
+ 
 ### 🦔🦔🦔
 <details>
-<summary>🍃🌴🥑🍐🍏🍈🥝🥔🥗 해결한 문제 () </summary>
+<summary>🌴🥑🍐🍏🍈🥝🥔🥗 해결한 문제 () </summary>
+</details>
+<details>
+<summary>🌴🥑🍐🍏🍈🥝🥔🥗 푸는 중 () </summary>
 </details>
