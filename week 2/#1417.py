@@ -23,7 +23,7 @@ while True:
     # 최다 득표자가 다솜이면 멈춘다.
     if max_votes_cand == 0:
         break
-    # 최다 득표자가 다솜이가 아니면 최다 득표자의 득표수 1을 다솜이에게 옮겨준다
+    # 최다 득표자가 다솜이가 아니면 최다 득표자의 득표수 1을 다솜이에게 옮겨준다.
     else:
         d_cand_votes[max_votes_cand] -= 1
         d_cand_votes[0] += 1
