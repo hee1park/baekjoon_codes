@@ -30,10 +30,21 @@
   
 - 2748: 🥉 I 피보나치 수 2
 </details> 
+
 ### 🦔 week 2
+<details>
+<summary>🌵 해결한 문제 (4)</summary>
+ 
 - 11655: 🥉 I ROT13
+
 - 1417: 🥈 V 국회의원 선거
+  
 - 1817: 🥈 V 짐 챙기는 숌
+  
 - 2870: 🥈 IV 수학숙제
+</details>
 
 ### 🦔🦔🦔
+<details>
+<summary>🍃🌴🥑🍐🍏🍈🥝🥔🥗 해결한 문제 () </summary>
+</details>
