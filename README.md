@@ -47,7 +47,7 @@
 - 9996: 🥈 III 한국이 그릴울 땐 서버에 접속하지
 </details>
 <details>
-<summary>🌵 푸는 중 (4)</summary>
+<summary>🌵 푸는 중 (5)</summary>
  
 - 2002: 🥈 I 추월
   
