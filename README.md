@@ -34,7 +34,7 @@
 
 ### 🦔 week 2
 <details>
-<summary>🌵 해결한 문제 (7)</summary>
+<summary>🌵 해결한 문제 (8)</summary>
  
 - 11655: 🥉 I ROT13
 
@@ -49,13 +49,13 @@
 - 2002: 🥈 I 추월
 
 - 1010: 🥈 V 다리 놓기
-</details>
-<details>
-<summary>🌵 푸는 중 (3)</summary>
-  
-- 11055: 🥈 II 가장 큰 증가하는 부분 수열
 
 - 9625: 🥈 V BABBA
+</details>
+<details>
+<summary>🌵 푸는 중... (2)</summary>
+  
+- 11055: 🥈 II 가장 큰 증가하는 부분 수열
 - 9655: 🥈 V 돌게임
  </details>
  
