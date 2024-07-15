@@ -34,7 +34,7 @@
 
 ### 🦔 week 2
 <details>
-<summary>🌵 해결한 문제 (5)</summary>
+<summary>🌵 해결한 문제 (7)</summary>
  
 - 11655: 🥉 I ROT13
 
@@ -45,14 +45,16 @@
 - 2870:  🥈 IV 수학숙제
   
 - 9996: 🥈 III 한국이 그릴울 땐 서버에 접속하지
+
+- 2002: 🥈 I 추월
+
+- 1010: 🥈 V 다리 놓기
 </details>
 <details>
-<summary>🌵 푸는 중 (5)</summary>
- 
-- 2002: 🥈 I 추월
+<summary>🌵 푸는 중 (3)</summary>
   
 - 11055: 🥈 II 가장 큰 증가하는 부분 수열
-- 1010: 🥈 V 다리 놓기
+
 - 9625: 🥈 V BABBA
 - 9655: 🥈 V 돌게임
  </details>
