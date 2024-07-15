@@ -60,11 +60,19 @@
 - 11055: 🥈 II 가장 큰 증가하는 부분 수열
 
  </details>
- 
-### 🦔🦔🦔
+
+### 🦔 week 3 
 <details>
-<summary>🌴🥑🍐🍏🍈🥝🥔🥗 해결한 문제 () </summary>
+<summary>🌴 해결한 문제 () </summary>
 </details>
 <details>
-<summary>🌴🥑🍐🍏🍈🥝🥔🥗 푸는 중 () </summary>
+<summary>🌴 푸는 중... () </summary>
+</details>
+
+### 🦔🦔🦔
+<details>
+<summary>🥑🍐🍏🍈🥝🥔🥗 해결한 문제 () </summary>
+</details>
+<details>
+<summary>🥑🍐🍏🍈🥝🥔🥗 푸는 중... () </summary>
 </details>
