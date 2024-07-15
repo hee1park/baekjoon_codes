@@ -11,5 +11,3 @@ for i in range(1, i_k + 1):
     d_ab[i] = (d_ab[i-1][1], d_ab[i-1][0] + d_ab[i-1][1])
     
 print(*d_ab[i_k])
-    
-
