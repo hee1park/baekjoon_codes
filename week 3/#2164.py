@@ -1,6 +1,5 @@
 # 2164
-
-# 덱 모듈을 이용해서 큐를 구현.
+# 덱 모듈을 이용해서 큐를 구현
 from collections import deque
 
 i_n = int(input())
