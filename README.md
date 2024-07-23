@@ -44,14 +44,15 @@
 
 ### 🦔 week 3
 <details>
-<summary>🌴 해결한 문제 (1) </summary>
+<summary>🌴 해결한 문제 (2) </summary>
 - 27160: 🥉 II 할리갈리
+- 2164: 🥈 IV 카드2
 </details>
 <details>
-<summary>🌴 푸는 중... (8) </summary>
+<summary>🌴 푸는 중... (7) </summary>
 
  - 23253: 🥈 V 자료구조는 정말 최고야
- - 2164: 🥈 IV 카드2
+
  - 1874: 🥈 II 스택 수열
  - 2504: 🥇 V 괄호의 값
  - 17413: 🥈 III 단어 뒤집기 2
