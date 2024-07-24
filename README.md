@@ -45,7 +45,9 @@
 ### 🦔 week 3
 <details>
 <summary>🌴 해결한 문제 (2) </summary>
+ 
 - 27160: 🥉 II 할리갈리
+  
 - 2164: 🥈 IV 카드2
 </details>
 <details>
