@@ -50,23 +50,40 @@
   
 - 2164: 🥈 IV 카드2
 - 1874: 🥈 II 스택 수열
+- 23253: 🥈 V 자료구조는 정말 최고야
 </details>
 <details>
 <summary>🌴 푸는 중... (6) </summary>
 
- - 23253: 🥈 V 자료구조는 정말 최고야
-
  - 2504: 🥇 V 괄호의 값
+   
  - 17413: 🥈 III 단어 뒤집기 2
  - 9081: 🥈 I 단어 맞추기
  - 2011: 🥇 V 암호코드
  - 5582: 🥇 V 공통 부분 문자열
 </details>
 
-### 🦔🦔🦔
+### 🦔 week 7
 <details>
-<summary>🥑🍐🍏🍈🥝🥔🥗 해결한 문제 () </summary>
+<summary>🥑 해결한 문제 (0) </summary>
 </details>
 <details>
-<summary>🥑🍐🍏🍈🥝🥔🥗 푸는 중... () </summary>
+<summary>🥑 푸는 중... () </summary>
+ 
+ - 10870: 🥉 II 피보나치 수 5
+ - 
+ - 4779: 🥈 I 칸토어 집합
+ - 11729: 🥇 V 하노이 탑 이동 순서
+ - 2559: 🥈 III 수열
+ - 3273: 🥈 III 두 수의 합
+ - 15565: 🥈 I 귀여운 라이언
+ - 17609: 🥇 V 회문
+</details>
+
+### 🦔🦔🦔
+<details>
+<summary>🍐🍏🍈🥝🥔🥗 해결한 문제 () </summary>
+</details>
+<details>
+<summary>🍐🍏🍈🥝🥔🥗 푸는 중... () </summary>
 </details>
