@@ -44,7 +44,7 @@
 
 ### 🦔 week 3
 <details>
-<summary>🌴 해결한 문제 (3) </summary>
+<summary>🌴 해결한 문제 (4) </summary>
  
 - 27160: 🥉 II 할리갈리
   
@@ -53,7 +53,7 @@
 - 23253: 🥈 V 자료구조는 정말 최고야
 </details>
 <details>
-<summary>🌴 푸는 중... (6) </summary>
+<summary>🌴 푸는 중... (5) </summary>
 
  - 2504: 🥇 V 괄호의 값
    
