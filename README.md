@@ -65,14 +65,14 @@
 
 ### 🦔 week 7
 <details>
-<summary>🥑 해결한 문제 (0) </summary>
+<summary>🥑 해결한 문제 (2) </summary>
  
  - 10870: 🥉 II 피보나치 수 5
 
  - 4779: 🥈 III 칸토어 집합
 </details>
 <details>
-<summary>🥑 푸는 중... (7) </summary>
+<summary>🥑 푸는 중... (5) </summary>
  
  - 11729: 🥇 V 하노이 탑 이동 순서
    
