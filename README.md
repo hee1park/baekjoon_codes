@@ -65,18 +65,18 @@
 
 ### 🦔 week 7
 <details>
-<summary>🥑 해결한 문제 (2) </summary>
+<summary>🥑 해결한 문제 (3) </summary>
  
  - 10870: 🥉 II 피보나치 수 5
 
  - 4779: 🥈 III 칸토어 집합
+ - 11729: 🥇 V 하노이 탑 이동 순서
 </details>
 <details>
-<summary>🥑 푸는 중... (5) </summary>
+<summary>🥑 푸는 중... (4) </summary>
  
- - 11729: 🥇 V 하노이 탑 이동 순서
-   
  - 2559: 🥈 III 수열
+   
  - 3273: 🥈 III 두 수의 합
  - 15565: 🥈 I 귀여운 라이언
  - 17609: 🥇 V 회문
